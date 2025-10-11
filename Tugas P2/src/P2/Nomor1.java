@@ -1,9 +1,8 @@
+package P2;
 
-package pertemuan2;
-
-public class Pertemuan2 {
+public class Nomor1 {
     public static void main(String[] args) {
-        int a = 5;
+       int a = 5;
 
         System.out.println("Nilai awal a = " + a);
 
